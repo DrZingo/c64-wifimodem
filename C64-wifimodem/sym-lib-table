@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name C64-wifimodem-2-rescue)(type Legacy)(uri ${KIPRJMOD}/C64-wifimodem-2-rescue.lib)(options "")(descr ""))
+  (lib (name C64-wifimodem-rescue)(type Legacy)(uri ${KIPRJMOD}/C64-wifimodem-rescue.lib)(options "")(descr ""))
+)
