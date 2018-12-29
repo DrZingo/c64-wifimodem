@@ -1,4 +1,8 @@
 # c64-wifimodem
+
+![modem](resources/modem.png)
+
+## src
 Source code for my c64-wifimodem
 
 Feel free to make changes and correction.
@@ -17,3 +21,10 @@ Feel free to make changes and correction.
   - Direct call connection to the modem does work, sort of.
 - S-registers
   - May be useful, I don't know.
+
+## c64-wifimodem
+PCB files in kicad format. Nothing much to say about it.
+
+![pcb](resources/pcb.png)
+
+![schematic](resources/drawing.png)
