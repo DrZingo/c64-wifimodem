@@ -28,3 +28,15 @@ PCB files in kicad format. Nothing much to say about it.
 ![pcb](resources/pcb.png)
 
 ![schematic](resources/drawing.png)
+
+## BOM
+
+```
+ C1      22uF Case B, 3528
+ J4      User Port edge connector
+ Q1-Q5   BSS138 SOT-23
+ R1-R12  10k 0805
+ U1      LM1117-3.3 SOT-223
+ U2      ESP8266 12E or 12F
+ U3      OLED 0.96" GND,VCC,SCL,SDA
+```
