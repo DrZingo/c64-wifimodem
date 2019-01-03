@@ -32,7 +32,7 @@ PCB files in kicad format. Nothing much to say about it.
 ## BOM
 
 ```
- C1      22uF Case B, 3528
+ C1      Tantalum 22uF Case B, 3528
  J4      User Port edge connector
  Q1-Q5   BSS138 SOT-23
  R1-R12  10k 0805
